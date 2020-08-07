@@ -1,0 +1,44 @@
+{
+  "name": "ts-geoxml3",
+  "version": "1.0.0",
+  "description": "KML processor for Google Map JS APIv3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarkant/geoxml3.git"
+  },
+  "keywords": [
+    "geoxml3",
+    "kml",
+    "ts",
+    "google",
+    "maps",
+    "maps",
+    "api",
+    "apiv3",
+    "v3",
+    "typescript"
+  ],
+  "author": "Tarek Jellali",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/tarkant/geoxml3/issues"
+  },
+  "devDependencies": {
+    "@types/googlemaps": "^3.39.11",
+    "@typescript-eslint/eslint-plugin": "^2.20.0",
+    "@typescript-eslint/eslint-plugin-tslint": "^2.20.0",
+    "@typescript-eslint/parser": "^2.20.0",
+    "awesome-typescript-loader": "^5.2.1",
+    "eslint": "^6.8.0",
+    "terser-webpack-plugin": "^2.3.5",
+    "typescript": "^3.8.2",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.10.2"
+  },
+  "homepage": "https://github.com/tarkant/geoxml3#readme"
+}
